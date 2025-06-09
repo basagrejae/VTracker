@@ -56,7 +56,7 @@
   </script>
 
   <script async
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvucFemn8NRHaDqJvYRsK2sbkZBeIj4gw&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=&callback=initMap">
   </script>
 </body>
 </html>
